@@ -90,6 +90,20 @@ label {
     color: var(--color3);
 }
 
+footer {
+    position: fixed;
+    width: 100%;
+    height: 5%;
+    bottom: 0px;
+    justify-content: space-between;
+}
+
+footer p {
+    text-align: center;
+    font-size: small;
+    color: var(--color2);
+}
+
 @media (max-width: 500px) {
     .container {
         padding: 1rem;
