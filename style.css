@@ -94,14 +94,14 @@ footer {
     position: fixed;
     width: 100%;
     height: 5%;
-    bottom: 0px;
+    bottom: 10px;
     justify-content: space-between;
 }
 
 footer p {
     text-align: center;
     font-size: small;
-    color: var(--color2);
+    color: var(--color3);
 }
 
 @media (max-width: 500px) {
